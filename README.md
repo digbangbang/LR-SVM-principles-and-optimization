@@ -21,4 +21,10 @@ This is my undergraduate thesis, which contains part of the code and experimenta
   <img src="https://github.com/digbangbang/LR-SVM-principles-and-optimization/assets/78746384/f55ace25-3ce4-4662-9ace-a3fbe0b37f4e" alt="legend" width="600" height="400">
 </p>
 
+*The result in SVM, there is no situation above in SVM. Considering that SVM's hinge loss can descrease to 0, and in the linearly totally sperable situation, SVM can quickly find the seperabel boundary.*
+
+<p align="center">
+  <img src="https://github.com/digbangbang/LR-SVM-principles-and-optimization/assets/78746384/3bfe8cb2-5039-4d87-ae37-7804d4bead6c" alt="legend" width="600" height="400">
+</p>
+
 I also provide the paper.ipynb, which is already runned.
