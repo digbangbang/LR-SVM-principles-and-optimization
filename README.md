@@ -27,4 +27,4 @@ This is my undergraduate thesis, which contains part of the code and experimenta
   <img src="https://github.com/digbangbang/LR-SVM-principles-and-optimization/assets/78746384/3bfe8cb2-5039-4d87-ae37-7804d4bead6c" alt="legend" width="600" height="400">
 </p>
 
-I also provide the paper.ipynb, which is already runned.
+I also provide the paper.ipynb, which is already runned. (The picture's $\theta$ is little different with the $\theta$ in paper.ipynb in value due to the paper.ipynb was newly runned.)
